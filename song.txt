@@ -2,3 +2,5 @@ linijka1
 linijka2
 linijka3
 linijka4
+linijka5
+linijka6
